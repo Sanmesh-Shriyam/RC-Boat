@@ -55,3 +55,6 @@ This is a basic Remote Controlled Boat Project
 1.Connect the PS3 to the laptop and copy the MAC id of the PS3 controller and save it as it will be required if you want to use the Controller as a Game controller again.
 
 2.Change the MAC id of the PS3 controller to the MAC id of your ESP32
+
+3D print files used from the internet
+
