@@ -17,7 +17,7 @@ This is a basic Remote Controlled Boat Project
 
 6.Power Bank
 
-7.Battery pack(12V x 6 battries)
+7.Battery pack(24V x 3 battries)
 
 8.Connecting wires
 
@@ -37,7 +37,7 @@ This is a basic Remote Controlled Boat Project
 
 1.Connect the ESP32 to the power bank.
 
-2.Connect all the 12V 6 batteries together in series to make a battery pack.
+2.Connect all the 24V 3 batteries together in series to make a battery pack.
 
 3.connect the battery pack to the motor relay with a switch in between.
 
